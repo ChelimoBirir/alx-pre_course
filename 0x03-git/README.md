@@ -1,1 +1,1 @@
-I hate this assignment
+This is a readme for the 0x03-git directory
